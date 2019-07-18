@@ -1,0 +1,23 @@
+@function lighten-background($url, $amount){
+    @return linear-gradient(to bottom, rgba(255, 255, 255, $amount) 0%, rgba(255, 255, 255, $amount) 100%), url($url)
+  }
+
+@mixin full-half () {
+    @include xy-cell(12);
+    
+    @include breakpoint(medium) {
+        @include xy-cell(6);
+    }
+}
+
+@mixin full-half-third () {
+    @include xy-cell(12);
+    
+    @include breakpoint(medium) {
+        @include xy-cell(6);
+    }
+
+    @include breakpoint(large) {
+        @include xy-cell(4);
+    }
+}

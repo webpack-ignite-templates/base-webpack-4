@@ -1,0 +1,69 @@
+{
+  "HtmlWebpackCompiler": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": []
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/thread-loader/dist/cjs.js??ref--10-1!node_modules/css-loader/dist/cjs.js??ref--10-2!node_modules/postcss-loader/src/index.js!node_modules/sass-loader/lib/loader.js??ref--10-4!src/assets/scss/layout.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": []
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/thread-loader/dist/cjs.js??ref--10-1!node_modules/css-loader/dist/cjs.js??ref--10-2!node_modules/postcss-loader/src/index.js!node_modules/sass-loader/lib/loader.js??ref--10-4!src/assets/scss/index.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": []
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/thread-loader/dist/cjs.js??ref--10-1!node_modules/css-loader/dist/cjs.js??ref--10-2!node_modules/postcss-loader/src/index.js!node_modules/sass-loader/lib/loader.js??ref--10-4!src/assets/scss/foundation/foundation_base.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": []
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {
+      "multi src/js/pages/index.js": 0,
+      "multi src/js/pages/page2.js": 1
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1
+    }
+  },
+  "chunks": {
+    "byName": {},
+    "bySource": {},
+    "usedIds": []
+  }
+}
